@@ -1,0 +1,9 @@
+This is an SRPM wrepper for the 'check_svn.txt' tool at NagiosExchange, at:
+
+     http://exchange.nagios.org/directory/Plugins/Others/Check_Svn/details
+
+I took the liberty of renaming it to 'check_svn_repo', because it checks
+repositories, not local working copies.
+
+	      	  	Nico Kadel-Garcia
+			nkadel@gmail.com
